@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 03 Oct 2025 02:48:08 at https://pixelwibes.in/templates/hotelair/html/hotels.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0c1T60R3H0%kf2A25000%c1%f#f -F "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://pixelwibes.in/templates/hotelair/html/hotels.html -O1 "C:\Users\ADMIN\Desktop\New folder (2)\fe" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:03:45	Error: 	"Not Found" (404) at link https://pixelwibes.in/templates/hotelair/html/assets/css/font/summernote.eot? (from https://pixelwibes.in/templates/hotelair/html/assets/css/summernote.min.css)
+03:03:45	Error: 	"Not Found" (404) at link https://pixelwibes.in/templates/hotelair/html/assets/css/font/summernote.woff2 (from https://pixelwibes.in/templates/hotelair/html/assets/css/summernote.min.css)
+03:03:45	Error: 	"Not Found" (404) at link https://pixelwibes.in/templates/hotelair/html/assets/css/font/summernote.woff (from https://pixelwibes.in/templates/hotelair/html/assets/css/summernote.min.css)
+03:03:45	Error: 	"Not Found" (404) at link https://pixelwibes.in/templates/hotelair/html/assets/css/font/summernote.ttf (from https://pixelwibes.in/templates/hotelair/html/assets/css/summernote.min.css)
+03:03:51	Error: 	"Not Found" (404) at link https://pixelwibes.in/templates/hotelair/html/docs/5.1/forms/checks-radios/ (from https://pixelwibes.in/templates/hotelair/html/docs/buttons.html)
+03:03:51	Error: 	"Not Found" (404) at link https://pixelwibes.in/templates/hotelair/html/docs/GET (from https://pixelwibes.in/templates/hotelair/html/assets/bundles/prism.bundle.js)
+03:03:51	Error: 	"Not Found" (404) at link https://pixelwibes.in/templates/hotelair/html/docs/Trident/ (from https://pixelwibes.in/templates/hotelair/html/assets/bundles/inputmask.bundle.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 minutes 43 seconds : 482 links scanned, 473 files written (16324570 bytes overall) [6384202 bytes received at 6770 bytes/sec], 13434570 bytes transferred using HTTP compression in 382 files, ratio 23%, 43.8 requests per connection
+(7 errors, 0 warnings, 0 messages)
